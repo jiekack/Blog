@@ -216,7 +216,7 @@ article:
     # auto generate excerpt if not exist
     auto_excerpt: true # false, true
     # hide excerpt
-    hide_excerpt: false
+    hide_excerpt: true
     # show split line or not
     line_style: solid # hidden, solid, dashed, dotted
     # show author

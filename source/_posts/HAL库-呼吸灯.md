@@ -1,5 +1,4 @@
 ---
-
 title: HAL库---呼吸灯
 date: 2025-04-11 13:50:11
 tags:
@@ -9,10 +8,8 @@ tags:
 
 已验证，代码可以运行。引脚：PA6
 
-
-
+<!--more-->
 ```c
-//代码如下
 #include "main.h"
 #include "tim.h"
 #include "usart.h"
@@ -164,4 +161,4 @@ void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef* tim_baseHandle)
 }
 
 ```
-
+```
