@@ -1,8 +1,9 @@
 ---
 title: HAL库---呼吸灯
 date: 2025-04-11 13:50:11
-tags: 代码 ##这是标签
-type: STM32
+tags: 
+  - 代码
+  - STM32
 ---
 
 # HAL库---呼吸灯
@@ -162,4 +163,5 @@ void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef* tim_baseHandle)
 }
 
 ```
-```
+![](./img/cat2.png)
+
