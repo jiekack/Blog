@@ -7,7 +7,7 @@ tags:
 
 # HAL库---呼吸灯
 
-
+已验证，代码可以运行。引脚：PA6
 
 ```c
 #include "main.h"
